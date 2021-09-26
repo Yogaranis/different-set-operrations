@@ -1,0 +1,10 @@
+A = {0, 2, 4, 6, 8};
+B = {1, 2, 3, 4, 5};  
+# To print union
+print("Union :", A | B)
+# To print intersection
+print("Intersection :", A & B)
+# To print difference
+print("Difference :", A - B)
+# To print symmetric difference
+print("Symmetric difference :", A ^ B)
